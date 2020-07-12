@@ -4,10 +4,10 @@
 
 Tópicos:
 
- - [ ] 434 - Anatomia da TAG
- - [ ] 435 - Anatomia de uma Página HTML
- - [ ] 436 - Um Pouco de CSS
- - [ ] 437 - Estruturando os Exercícios
+ - [x] 434 - Anatomia da TAG
+ - [x] 435 - Anatomia de uma Página HTML
+ - [x] 436 - Um Pouco de CSS
+ - [x] 437 - Estruturando os Exercícios
  - [ ] 438 - Texto Puro vs Browser
  - [ ] 439 - Tag para Textos #01
  - [ ] 440 - Tag para Textos #02
