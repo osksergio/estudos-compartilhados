@@ -9,8 +9,8 @@ Tópicos:
  - [x] 436 - Um Pouco de CSS
  - [x] 437 - Estruturando os Exercícios
  - [x] 438 - Texto Puro vs Browser
- - [ ] 439 - Tag para Textos #01
- - [ ] 440 - Tag para Textos #02
+ - [x] 439 - Tag para Textos #01
+ - [x] 440 - Tag para Textos #02
  - [ ] 441 - Listas
  - [ ] 442 - Listas Aninhadas
  - [ ] 443 - Listas Aninhadas (Desafio)
